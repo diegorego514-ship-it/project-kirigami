@@ -1,0 +1,2 @@
+/home/diegorego/kde/usr/bin/build-rel/CMakeFiles/edit_cache.dir
+/home/diegorego/kde/usr/bin/build-rel/CMakeFiles/rebuild_cache.dir
